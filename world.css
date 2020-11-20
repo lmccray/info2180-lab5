@@ -1,0 +1,26 @@
+/* Leonard McCray*/
+/* 620108332 */
+body {
+
+	background-image: url('world.jpg');
+	background-repeat: no-repeat;
+}
+
+button {
+
+    color: #e8f1e8;
+    background-color: #306cee;
+    border: 1px solid #334452;
+    border-radius: 20px;
+}
+
+h1,label {
+
+    color: #ec2323;
+}
+
+table,th,td {
+	
+	border: 1px solid blue;
+	border-collapse: collapse;
+}
